@@ -11,5 +11,49 @@ Incident Response en Windows> https://learn.microsoft.com/en-us/sysinternals/dow
 Ransowmare Response: https://medium.com/swlh/detecting-and-responding-to-ransomware-attacks-by-using-free-tools-1873c8510a9e
 
 
+Memoria Volátil:
+
+....https://www.volatilityfoundation.org/
+....https://fireeye.market/
+....https://www.magnetforensics.com/resources/magnet-process-capture/
+....https://www.magnetforensics.com/resources/magnet-ram-capture/
+
+
+Discos encriptados:
+
+....https://www.magnetforensics.com/resources/encrypted-disk-detector/
+....http://www.disk-editor.org/index.html
+....https://mh-nexus.de/en/hxd/
+
+
+Ubicar historial y Strings en navegadores(Decriptores):
+
+----------------------
+
+    DB Browser for SQLite (Open “.sqlite” files) https://sqlitebrowser.org/
+    Nirsoft Web Browsers Tools (Contains a multitude of tools to open cache files, cookies and history data)https://www.nirsoft.net/web_browser_tools.html
+    BrowsingHistoryView .... https://www.nirsoft.net/utils/browsing_history_view.html
+    ESEDatabaseView...https://www.nirsoft.net/utils/ese_database_view.html
+    Session History Scrounger for Firefox (Opens “.jsonlz4” files)....https://www.jeffersonscher.com/ffu/scrounger.html
+    Sysinternals Strings....https://docs.microsoft.com/en-us/sysinternals/downloads/strings
+    OS Forensics....https://www.osforensics.com/
+    Magnet IEF (Internet Evidence Finder)....https://www.magnetforensics.com/products/magnet-ief/
+    Browser History Viewer....https://www.foxtonforensics.com/browser-history-viewer/
+    Browser History Examiner (Free Trial)....https://www.foxtonforensics.com/browser-history-examiner/
+    Hindsight.....https://github.com/obsidianforensics/hindsight
+    libsedb (Library to access the Extensible Storage Engine (ESE) Database File (EDB) format)....https://github.com/libyal/libesedb
+    Web Browser Addons View (Use to view installed extensions and addons)....https://www.nirsoft.net/utils/web_browser_addons_view.html
+    The LaZagne Project....https://github.com/AlessandroZ/LaZagne
+    firepwd.py (open source tool to decrypt Mozilla protected passwords)....
+    Firefox Search Engine Extractor (Open ‘search.json.mozlz4’ files)...https://www.jeffersonscher.com/ffu/searchjson.html
+    Firefox Bookmark Backup Reader/Decompressor (Open ‘ jsonlz4’ files)....https://www.jeffersonscher.com/ffu/bookbackreader.html
+    
+    
+    
+    
+    
+    
+
+
 
 
