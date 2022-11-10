@@ -14,6 +14,42 @@ Burp Suite - Framework.
 
 5. Sublist3r - Subdomain discover
 
+6. Amass - Subdomain discovery.
+
+7. SQLmap - SQLi exploitation.
+
+8. Metasploit - Framework.
+
+9. WPscan - WordPress exploitation.
+
+10. Nikto - Webserver scanning.
+
+11. HTTPX - HTTP probing.
+
+3. FFUF - HTTP probing.
+
+14. Subfinder - Subdomain discovery.
+
+15. Masscan - Mass IP and port scanner.
+
+16. Lazy Recon - Subdomain discovery.
+
+18. XSS Hunter - Blind XSS discovery.
+
+19. Aquatone - HTTP based recon.
+
+20. LinkFinder - Endpoint discovery through JS files
+
+21. JS-Scan - Endpoint discovery through JS files
+
+22 GAU - Historical attack surface mapping
+
+23 Parameth - Bruteforce GET and POST parameters
+
+24 truffleHog - Find credentials in GitHub commits
+
+Herameintas: uclei - YAML based template scanning.
+
 Feed de vulnerabilidades: https://inthewild.io/feed
 
 Identificación de brechas sobre Malawre o ransomware: https://www.binalyze.com/air  --- Busqueda proactiva: https://cybermeisam.medium.com/blue-team-system-live-analysis-part-1-a-proactive-hunt-8258feb7cb14
