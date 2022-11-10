@@ -8,6 +8,7 @@ Literatura Ambientes Forenses controlados: https://csrc.nist.gov/glossary/term/F
  https://www.sans.org/posters/?focus-area=digital-forensics --
  ---http://journeyintoir.blogspot.com/
  ---https://ponderthebits.com/
+ ---https://eforensicsmag.com/download/preview-digital-forensic-tools/
  
  
  
@@ -21,6 +22,11 @@ Literatura Ambientes Forenses controlados: https://csrc.nist.gov/glossary/term/F
  ----https://ericzimmerman.github.io/#!index.md::: Artefactos de Windows
  
  Log parser: https://www.microsoft.com/en-us/download/details.aspx?id=24659
+ 
+ 
+ Python forensics:
+ 
+ https://github.com/PythonForensics
  
  
  
