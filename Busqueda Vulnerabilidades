@@ -4,6 +4,16 @@ https://www.exploit-db.com/papers : Relacionado con las vulnerabilidades y como 
 
 Detectando un Movimiento lateral en SPLUNK: https://medium.com/threatpunter/detecting-lateral-movement-using-sysmon-and-splunk-318d3be141bc
 
+Burp Suite - Framework.
+
+2. ZAP Proxy - Framework.
+
+3. Dirsearch - HTTP bruteforcing.
+
+4. Nmap - Port scanning.
+
+5. Sublist3r - Subdomain discover
+
 Feed de vulnerabilidades: https://inthewild.io/feed
 
 Identificación de brechas sobre Malawre o ransomware: https://www.binalyze.com/air  --- Busqueda proactiva: https://cybermeisam.medium.com/blue-team-system-live-analysis-part-1-a-proactive-hunt-8258feb7cb14
